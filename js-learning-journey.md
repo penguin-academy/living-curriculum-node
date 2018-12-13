@@ -1,4 +1,4 @@
-<h2> Learning journey </h2>
+<h2> Javascript Learning Journey </h2>
 
 Here is a <strong> list of what sources we've been using so far, </strong> more or less in this particular order. Some might be repetitive to consult together, though:
 
